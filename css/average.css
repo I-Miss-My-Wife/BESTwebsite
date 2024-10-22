@@ -1,0 +1,28 @@
+body {
+    background-image: url(../photo/SpaceBackground.jpg);}
+p{
+    color:whitesmoke}
+h1 {
+        color: whitesmoke}
+    h1.Titles {
+            text-align: center;
+            color: whitesmoke}
+h2 {    
+        color: whitesmoke}
+h3 {
+        color: whitesmoke}
+ .R{
+    text-align: right;
+    color: whitesmoke;
+    padding-right: 100px;
+ }
+ .L{
+    text-align: left;
+    color: whitesmoke;
+    padding-right: 100px;
+ }
+ .C{
+    text-align: center;
+    color: whitesmoke;
+    padding-right: 100px;
+ }
